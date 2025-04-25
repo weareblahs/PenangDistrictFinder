@@ -26,7 +26,7 @@ function App() {
       </div>
 
       <center>
-        <div class="absolute bottom-4 ms-auto me-auto lg:ms-[25%] lg:me-[25%]">
+        <div class="absolute bottom-1 ms-auto me-auto lg:ms-[25%] lg:me-[25%]">
           <p className="text-base">
             <a
               href=""

@@ -1,7 +1,6 @@
 @import "tailwindcss";
 
 .main {
-  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -9,4 +8,18 @@
   margin-left: auto;
   margin-right: auto;
   color: white;
+}
+
+.center-everything {
+  @media (min-width: 1024px) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.center-everything-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

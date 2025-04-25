@@ -4,8 +4,8 @@ import { localization } from "../internalFunctions/localization";
 import Cookies from "js-cookie";
 export const Result = ({ changeRequired, requiredResult }) => {
   return (
-    <div className="block">
-      <div>
+    <div className="h-[85vh] lg:h-[100vh] center-everything-all">
+      <div className="block">
         <h1 className="italic text-2xl text-center">
           {Cookies.get("language") == "en" || Cookies.get("language") == "ms"
             ? requiredResult
@@ -20,18 +20,15 @@ export const Result = ({ changeRequired, requiredResult }) => {
                 getDistrict(requiredResult)
               )}
         </h1>
-      </div>
-
-      <center>
-        <div className="mt-8 ">
+        <center>
           <Button
             onClick={() => changeRequired("")}
-            className="inline-flex me-4 mt-2 mb-2 items-center gap-2 rounded-md bg-gray-700 px-3 py-1.5 text-sm/6 font-semibold text-white shadow-inner shadow-white/10 focus:not-data-focus:outline-none data-focus:outline data-focus:outline-white data-hover:bg-gray-600 data-open:bg-gray-700"
+            className="inline-flex me-4 mt-8 mb-2 items-center gap-2 rounded-md bg-gray-700 px-3 py-1.5 text-sm/6 font-semibold text-white shadow-inner shadow-white/10 focus:not-data-focus:outline-none data-focus:outline data-focus:outline-white data-hover:bg-gray-600 data-open:bg-gray-700"
           >
             {localization(Cookies.get("language"), "Search other districts")}
           </Button>
-        </div>
-      </center>
+        </center>
+      </div>
     </div>
   );
 };
