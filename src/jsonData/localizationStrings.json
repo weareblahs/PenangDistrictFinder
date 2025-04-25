@@ -1,0 +1,81 @@
+[
+  {
+    "string": "Bukit Ayer Itam",
+    "simp": "Bukit Ayer Itam",
+    "trad": "Bukit Ayer Itam"
+  },
+  {
+    "string": "Bukit Paya Terubong",
+    "simp": "Bukit Paya Terubong",
+    "trad": "Bukit Paya Terubong"
+  },
+  { "string": "Air Itam", "simp": "亚依淡", "trad": "亞依淡" },
+  { "string": "Paya Terubong", "simp": "垄尾", "trad": "垄尾" },
+  { "string": "Batu Ferringi", "simp": "峇都丁宜", "trad": "峇都丁宜" },
+  { "string": "Tanjung Tokong", "simp": "丹绒道光", "trad": "丹绒道光" },
+  { "string": "Bukit Bendera", "simp": "升旗山", "trad": "升旗山" },
+  { "string": "Gelugor", "simp": "牛汝莪", "trad": "牛汝莪" },
+  { "string": "George Town", "simp": "乔治市", "trad": "喬治市" },
+  { "string": "Tanjung Bungah", "simp": "丹绒武雅", "trad": "丹绒武雅" },
+  { "string": "Tanjung Pinang", "simp": "丹戎槟榔", "trad": "丹戎檳榔" },
+  { "string": "Farlim", "simp": "发林", "trad": "發林" },
+  { "string": "Teluk Bahang", "simp": "直落巴巷", "trad": "直落巴巷" },
+  { "string": "Pantai Acheh", "simp": "班台亚齐", "trad": "班台亞齊" },
+  { "string": "Gertak Sanggul", "simp": "美湖", "trad": "美湖" },
+  { "string": "Pulau Betong", "simp": "浮罗勿洞", "trad": "浮羅勿洞" },
+  { "string": "Balik Pulau", "simp": "浮罗山背", "trad": "浮羅山背" },
+  { "string": "Kelapa Batas", "simp": "甲抛峇底", "trad": "甲拋峇底" },
+  { "string": "Tasek Gelugor", "simp": "打昔汝莪", "trad": "打昔汝莪" },
+  { "string": "Bagan", "simp": "峇眼", "trad": "峇眼" },
+  { "string": "Penaga", "simp": "本那牙", "trad": "本那牙" },
+  { "string": "Butterworth", "simp": "北海", "trad": "北海" },
+  { "string": "Permatang Pauh", "simp": "峇东埔", "trad": "峇東埔" },
+  { "string": "Bukit Mertajam", "simp": "大 山脚", "trad": "大山腳" },
+  { "string": "Juru", "simp": "柔府", "trad": "柔府" },
+  { "string": "Permatang Tinggi", "simp": "峇冬丁宜", "trad": "峇冬丁宜" },
+  { "string": "Sungai Lembu", "simp": "双溪里武", "trad": "雙溪里武" },
+  {
+    "string": "Kampung Bahru",
+    "simp": "Kampung Bahru",
+    "trad": "Kampung Bahru"
+  },
+  { "string": "Berapit", "simp": "武拉必村", "trad": "武拉必村" },
+  { "string": "Perai", "simp": "北赖", "trad": "北賴" },
+  { "string": "Prai", "simp": "北赖", "trad": "北賴" },
+  { "string": "Bukit Minyak", "simp": "武吉敏惹", "trad": "武吉敏惹" },
+  { "string": "Seberang Perai", "simp": "威省", "trad": "威省" },
+  { "string": "Kubang Semang", "simp": "高巴三万", "trad": "高巴三萬" },
+  { "string": "Penanti", "simp": "本南地", "trad": "本南地" },
+  { "string": "Nibong Tebal", "simp": "高渊", "trad": "高淵" },
+  { "string": "Sungai Bakap", "simp": "双溪峇甲", "trad": "雙溪峇甲" },
+  { "string": "Batu Kawan", "simp": "峇都交湾", "trad": "峇都交灣" },
+  { "string": "Jawi", "simp": "爪夷村", "trad": "爪夷村" },
+  { "string": "Sungai Udang", "simp": "高渊港口", "trad": " 高淵港口" },
+  { "string": "Bukit Tambun", "simp": "武吉淡汶", "trad": "武吉淡汶" },
+  { "string": "Tambun", "simp": "淡汶", "trad": "淡汶" },
+  { "string": "Valdor", "simp": "华都", "trad": "華都" },
+  { "string": "Sungai Acheh", "simp": "双溪亚齐", "trad": "雙溪亞齊" },
+  { "string": "Daerah Timur Laut", "simp": "东北县", "trad": "東北縣" },
+  { "string": "Daerah Barat Daya", "simp": "东北县", "trad": "西南縣" },
+  { "string": "Seberang Perai Utara", "simp": "威北", "trad": "威北" },
+  { "string": "Seberang Perai Tengah", "simp": "威中", "trad": "威中" },
+  { "string": "Seberang Perai Selatan", "simp": "威南", "trad": "威南" },
+  {
+    "string": "is located in",
+    "simp": "位于",
+    "trad": "位於",
+    "ms": "terletak di"
+  },
+  {
+    "string": "Search other districts",
+    "simp": "搜索其他位置",
+    "trad": "搜索其他位置",
+    "ms": "Cari daerah lain"
+  },
+  {
+    "string": "Enter location name or select location below",
+    "simp": "输入或从以下选项选择位置",
+    "trad": "輸入或從以下選項選擇位置",
+    "ms": "Masukkan nama lokasi atau pilih lokasi di bawah"
+  }
+]

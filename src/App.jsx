@@ -30,7 +30,15 @@ function App() {
               Tan (weareblahs)
             </a>
             . Most district data are manually compiled from Wikipedia and Google
-            Maps, while some data is confirmed by myself.{" "}
+            Maps, while some data is confirmed by myself. Data feedback can be
+            submitted{" "}
+            <a
+              href="https://github.com/weareblahs/PenangDistrictFinder/issues/new"
+              className="underline"
+            >
+              here
+            </a>
+            .{" "}
             <a
               href="https://github.com/weareblahs/PenangDistrictFinder"
               className="underline"

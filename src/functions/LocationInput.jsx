@@ -1,12 +1,14 @@
 import { Button, Field, Input } from "@headlessui/react";
 import { checkLocation } from "../internalFunctions/checkLocation";
 import { useState } from "react";
-export const LocationInput = ({ toggleResult, changeRequired }) => {
+export const LocationInput = ({ changeRequired }) => {
   const [locSuggestionData, addLocSuggestionData] = useState(checkLocation(""));
   return (
     <div className="">
       <div className="w-100 ms-auto me-auto">
-        <h1 className="text-center text-2xl">Enter location name</h1>
+        <h1 className="text-center text-2xl">
+          Enter location name or select location below
+        </h1>
         <Input
           onChange={(e) => addLocSuggestionData(checkLocation(e.target.value))}
           className={
