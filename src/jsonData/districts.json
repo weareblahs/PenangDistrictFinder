@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Daerah Timur Laut",
+    "alternativeName": "Timor Laut",
+    "locations": [
+      "Bukit Ayer Itam",
+      "Bukit Paya Terubong",
+      "Ayer Itam",
+      "Air Itam",
+      "Paya Terubong",
+      "Batu Ferringi",
+      "Tanjong Tokong",
+      "Tanjung Santai",
+      "Bukit Bendera",
+      "Glugor",
+      "Gelugor",
+      "George Town",
+      "Tanjung Bungah",
+      "Tanjung Tokong",
+      "Tanjung Pinang",
+      "Farlim"
+    ]
+  },
+  {
+    "name": "Daerah Barat Daya",
+    "alternativeName": "Barat Daya",
+    "locations": [
+      "Teluk Bahang",
+      "Pantai Acheh",
+      "Gertak Sanggul",
+      "Pulau Betong",
+      "Balik Pulau"
+    ]
+  },
+  {
+    "name": "Seberang Perai Utara",
+    "alternativeName": "",
+    "locations": [
+      "Kepala Batas",
+      "Tasek Gelugor",
+      "Bagan",
+      "Penaga",
+      "Butterworth"
+    ]
+  },
+  {
+    "name": "Seberang Perai Tengah",
+    "alternativeName": "",
+    "locations": [
+      "Permatang Pauh",
+      "Bukit Mertajam",
+      "Juru",
+      "Permatang Tinggi",
+      "Sungai Lembu",
+      "Kampung Bahru",
+      "Berapit",
+      "Perai",
+      "Prai",
+      "Bukit Minyak",
+      "Seberang Perai",
+      "Kubang Semang",
+      "Penanti"
+    ]
+  },
+  {
+    "name": "Seberang Perai Selatan",
+    "alternativeName": "",
+    "locations": [
+      "Nibong Tebal",
+      "Sungai Bakap",
+      "Batu Kawan",
+      "Jawi",
+      "Sungai Udang",
+      "Bukit Tambun",
+      "Tambun",
+      "Valdor",
+      "Sungai Acheh"
+    ]
+  }
+]
