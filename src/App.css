@@ -10,7 +10,7 @@
   color: white;
 }
 
-.center-everything {
+.center-everything-desktop {
   @media (min-width: 1024px) {
     display: flex;
     align-items: center;

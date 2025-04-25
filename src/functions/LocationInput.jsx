@@ -6,7 +6,7 @@ import { localization } from "../internalFunctions/localization";
 export const LocationInput = ({ changeRequired }) => {
   const [locSuggestionData, addLocSuggestionData] = useState(checkLocation(""));
   return (
-    <div className="h-[100%] lg:h-[100vh] center-everything">
+    <div className="h-[100%] lg:h-[100vh] center-everything-desktop">
       <div className="block">
         <div className="ms-auto me-auto mt-4">
           <h1 className="text-center text-2xl">
