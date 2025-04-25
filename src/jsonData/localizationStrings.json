@@ -11,7 +11,7 @@
   },
   { "string": "Air Itam", "simp": "亚依淡", "trad": "亞依淡" },
   { "string": "Paya Terubong", "simp": "垄尾", "trad": "垄尾" },
-  { "string": "Batu Ferringi", "simp": "峇都丁宜", "trad": "峇都丁宜" },
+  { "string": "Batu Ferringhi", "simp": "峇都丁宜", "trad": "峇都丁宜" },
   { "string": "Tanjung Tokong", "simp": "丹绒道光", "trad": "丹绒道光" },
   { "string": "Bukit Bendera", "simp": "升旗山", "trad": "升旗山" },
   { "string": "Gelugor", "simp": "牛汝莪", "trad": "牛汝莪" },
@@ -61,10 +61,10 @@
   { "string": "Seberang Perai Tengah", "simp": "威中", "trad": "威中" },
   { "string": "Seberang Perai Selatan", "simp": "威南", "trad": "威南" },
   {
-    "string": "is located in",
+    "string": " is located in",
     "simp": "位于",
     "trad": "位於",
-    "ms": "terletak di"
+    "ms": " terletak di"
   },
   {
     "string": "Search other districts",
@@ -77,5 +77,11 @@
     "simp": "输入或从以下选项选择位置",
     "trad": "輸入或從以下選項選擇位置",
     "ms": "Masukkan nama lokasi atau pilih lokasi di bawah"
+  },
+  {
+    "string": "Please use Malay for searching location",
+    "simp": "请使用马来文输入地名",
+    "trad": "請使用馬來文輸入地名",
+    "ms": ""
   }
 ]
