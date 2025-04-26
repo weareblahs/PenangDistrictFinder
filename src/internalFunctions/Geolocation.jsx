@@ -16,7 +16,7 @@ export const Geolocation = ({ changeRequired }) => {
   const { coords, isGeolocationAvailable, isGeolocationEnabled } =
     useGeolocated({
       positionOptions: {
-        enableHighAccuracy: true,
+        enableHighAccuracy: false,
       },
       userDecisionTimeout: 5000,
     });
