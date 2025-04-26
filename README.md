@@ -1,12 +1,13 @@
-# React + Vite
+# What's this?
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project provides a simpler way to find the district based on your current location (via geolocation or manual search). Multilingual options (Simplified Chinese, Traditional Chinese and Malay) are provided for convenience.
 
-Currently, two official plugins are available:
+# What inspired this project?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Every year, Penang will have a water shortage - but most Penang citizens (yes, including me) are confused on the district they're currently staying at, while the official documents about water shortage periods are based on the district (example: Seberang Perai Tengah, Daerah Timur Laut, etc). This web app provides a way for citizens to find their current district based on their current location or area they're staying at (example: George Town, Nibong Tebal, Simpang Ampat, etc).
 
-## Expanding the ESLint configuration
+# Credits
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Data sourced from various Wikipedia pages and Google Maps data
+- Chinese translations for location names are taken from Wikipedia and various online sources
+- Reverse geocoding powered by [OpenStreetMap via Nominatim](https://nominatim.org/)

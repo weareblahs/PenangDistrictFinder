@@ -78,7 +78,7 @@ function App() {
             >
               here
             </a>
-            .{" "}
+            . Location data &copy; OpenStreetMap contributors.{" "}
             <a
               href="https://github.com/weareblahs/PenangDistrictFinder"
               className="underline"
