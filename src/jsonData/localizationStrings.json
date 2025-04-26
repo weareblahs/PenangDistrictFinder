@@ -30,7 +30,7 @@
   { "string": "Penaga", "simp": "本那牙", "trad": "本那牙" },
   { "string": "Butterworth", "simp": "北海", "trad": "北海" },
   { "string": "Permatang Pauh", "simp": "峇东埔", "trad": "峇東埔" },
-  { "string": "Bukit Mertajam", "simp": "大 山脚", "trad": "大山腳" },
+  { "string": "Bukit Mertajam", "simp": "大山脚", "trad": "大山腳" },
   { "string": "Juru", "simp": "柔府", "trad": "柔府" },
   { "string": "Permatang Tinggi", "simp": "峇冬丁宜", "trad": "峇冬丁宜" },
   { "string": "Sungai Lembu", "simp": "双溪里武", "trad": "雙溪里武" },
@@ -69,7 +69,7 @@
   {
     "string": "Search other districts",
     "simp": "搜索其他位置",
-    "trad": "搜索其他位置",
+    "trad": "搜尋其他位置",
     "ms": "Cari daerah lain"
   },
   {
@@ -83,5 +83,35 @@
     "simp": "请使用马来文输入地名",
     "trad": "請使用馬來文輸入地名",
     "ms": ""
+  },
+  {
+    "string": "Search by current location",
+    "simp": "使用当前位置搜索",
+    "trad": "使用目前位置搜尋",
+    "ms": "Cari menggunakan lokasi semasa"
+  },
+  {
+    "string": "Do note that this uses geolocation for finding current location",
+    "simp": "本功能使用定位技术搜索",
+    "trad": "本功能采用定位技術搜尋",
+    "ms": "Fungsi ini menggunakan geolokasi untuk mencari"
+  },
+  {
+    "string": "Please wait",
+    "simp": "请稍等",
+    "trad": "請稍後",
+    "ms": "Sila tunggu"
+  },
+  {
+    "string": "It seems that you are outside Penang or in an invalid location. If the problem persists while you're in Penang, please try again.",
+    "simp": "看来当前位置位于槟城外或无效地区。若当前位置为槟城，请再试试。",
+    "trad": "目前位置位於檳城外部或無效地區。若目前位置為檳城，請再試一次。",
+    "ms": "Lokasi sekarang yang dikesan oleh peranti tiada di Pulau Pinang atau lokasi tak sah. Jika kamu sekarang terletak di Pulau Pinang, sila cuba sekali."
+  },
+  {
+    "string": "Please enable or allow geolocation on your device to continue.",
+    "simp": "请在本机开启或允许定位技术，之后再试看。",
+    "trad": "請在本機開啟或允許定位技術，之後再試看。",
+    "ms": "Sila mengaktifkan fungsi geolokasi dalam peranti anda untuk menggunakan fungsi ini."
   }
 ]

@@ -14,3 +14,22 @@ export const checkLocation = (location) => {
   );
   return locFilter;
 };
+
+export const checkLocationByGeolocation = (searchString) => {
+  let locations = [];
+  districts.forEach((d) => {
+    d.locations.forEach((e) => {
+      locations.push(e);
+    });
+  });
+
+  const foundLocationNames = locations.filter((d) =>
+    searchString.includes(`${d}, `)
+  );
+
+  if (foundLocationNames.length == 0) {
+    return "";
+  } else {
+    return foundLocationNames[0]; // usually the first string will help with the searching
+  }
+};

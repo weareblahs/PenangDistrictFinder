@@ -24,13 +24,13 @@ export const LocationInput = ({ changeRequired }) => {
               "Please use Malay for searching location"
             )}
             className={
-              "p-5 mt-3 mb-3 block w-[100%] ms-auto me-auto rounded-lg border-none bg-white/5 px-3 py-1.5 text-3xl text-white focus:not-data-focus:outline-none data-focus:outline-2 data-focus:-outline-offset-2 data-focus:outline-white/25"
+              "p-5 mt-3 mb-3 block w-[84%] text-center ms-auto me-auto rounded-lg border-none bg-white/5 px-3 py-1.5 text-3xl text-white focus:not-data-focus:outline-none data-focus:outline-2 data-focus:-outline-offset-2 data-focus:outline-white/25"
             }
           />
         </div>
         <div className="">
           {/* location results */}
-          <div className="block text-center overflow-auto h-[60vh] w-[92vw] ms-[5%] me-[8%] lg:ms-0 lg:me-0 ">
+          <div className="block text-center overflow-auto h-[35vh] w-[92vw] ms-[5%] me-[8%] lg:ms-0 lg:me-0 ">
             {locSuggestionData.length > 0
               ? locSuggestionData.map((d) => {
                   return (
