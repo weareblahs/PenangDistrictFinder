@@ -6,6 +6,10 @@ This project provides a simpler way to find the district based on your current l
 
 Every year, Penang will have a water shortage - but most Penang citizens (yes, including me) are confused on the district they're currently staying at, while the official documents about water shortage periods are based on the district (example: Seberang Perai Tengah, Daerah Timur Laut, etc). This web app provides a way for citizens to find their current district based on their current location or area they're staying at (example: George Town, Nibong Tebal, Simpang Ampat, etc).
 
+# Where can I see this project?
+
+This project is currently deployed by Vercel on [https://penang.ntyx.dev](https://penang.ntyx.dev).
+
 # Credits
 
 - Data sourced from various Wikipedia pages and Google Maps data
